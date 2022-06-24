@@ -1,0 +1,4 @@
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.425 h1:xcAMBuvUTy1K8Zd+T1v+hoa3EbDnLT/c4GuQC1icbrI=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.425/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.425 h1:Yw1H/6RidVS5WXNvUNHSvI2b2K4djInHoYhHHHqafxo=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.425/go.mod h1:FBwgL9+b41snUr+J4psIYg4DyLD6zPyVAA8DRvf7heo=
